@@ -148,7 +148,7 @@ env
 
 Copy code
 
-PORT=5000
+PORT=3535
 
 MONGO_URI=your_mongodb_connection_string
 
